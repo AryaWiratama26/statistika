@@ -47,8 +47,8 @@ Terdapat 400 siswa terdaftar di kelas statistika dan kita diminta untuk melakuka
 - Selanjutnya anggota dari tiap strata tersebut akan dipilih secara acak untuk dijadikan anggota sample
 - Perlu diingat agar sampling yang dilakukan di tiap starta haruslah proporsional dengan proporsinya dalam populasi
 
-[Ilustrasi-startified](/assets/ilustrasi-stritified.png)
-[Contoh stratified sampling](/assets/contoh-stratified.png)
+![Ilustrasi-startified](/assets/ilustrasi-stritified.png)
+![~Contoh stratified sampling](/assets/contoh-stratified.png)
 
 
 ### Cluster Sampling
@@ -58,8 +58,8 @@ Terdapat 400 siswa terdaftar di kelas statistika dan kita diminta untuk melakuka
 - Selanjutnya anggota dari tiap cluster tersebut akan dipilih secara acak untuk dijadikan anggota sample.
 - Perlu diingat agar sampling yang dilakukan di tiap cluster haruslah proporsional dengan proporsinya dalam populasi
 
-[Ilustrasi-cluster](/assets/ilustrasi-sampling-clustering.png)
-[Contoh cluster sampling](/assets/contoh-clusterin-sampling.png)
+![Ilustrasi-cluster](/assets/ilustrasi-sampling-clustering.png)
+![Contoh cluster sampling](/assets/contoh-clusterin-sampling.png)
 
 ### Systematic Sampling
 
@@ -80,4 +80,3 @@ Suatu survey dilakukan untuk mendata opini warga kecamatan suka pintar (yang ter
 [Baca studi kasus dan kesimpualan CHATGPT](/Statistika-Deskriptif/Pengumpulan_Data_dalam_Statistika/CHATGPT_SUMMARY.md)
 
 [< Balik ke Desain Eksperimen](/Statistika-Deskriptif/Desain_Eksperimen/) | [> Lanjut ke Distribusi Frekuensi dalam Statistika](/Statistika-Deskriptif/Distribusi_Frekuensi_dalam_Statistika/)
- 
