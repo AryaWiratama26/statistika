@@ -82,3 +82,5 @@ Terdapat skala pengukuran (Level of Measurement) dalam bidang statistika:
 ## Tabel Rangkuman
 
 ![Tabel Rangkuman](/assets/skala-klas.png)
+
+[< Balik ke Pengantar](/Statistika-Deskriptif/Pengantar_Belajar_Statistika_Dasar/) | [> Lanjut ke Desain Eksperimen](/Statistika-Deskriptif/Desain_Eksperimen/)

@@ -43,5 +43,9 @@ Hasil pengamatan terhadap 2 kelompok pasien ini lalu dibandingkan.
 ![Replikasi](/assets/desain-replikasi.png)
 
 
-## Tantangn Eksperimen
+## Tantangan Eksperimen
 ![tantangnan-eksperimen](/assets/tantangan-eksperimen.png)
+
+Penjelasan lebih gampang dari chatgpt : [chatgpt](/Statistika-Deskriptif/Desain_Eksperimen/CHATGPT_SUMMARY.md)
+
+[< Balik ke Klasifikasi data](/Statistika-Deskriptif/Klasifikasi_Data_Dalam_Statistika/) | [> Lanjut ke Pengumpulan data](/Statistika-Deskriptif/Pengumpulan_Data_dalam_Statistika/) 
