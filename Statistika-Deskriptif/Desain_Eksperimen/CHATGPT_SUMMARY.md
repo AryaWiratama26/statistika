@@ -82,3 +82,5 @@ Pegawai jadi lebih rajin kerja karena tahu sedang diteliti, bukan karena perlaku
 - **Tantangan eksperimen** → faktor luar (confounding), sugesti (placebo), dan perubahan perilaku karena diawasi (Hawthorne).  
 
 ---
+
+[Back to Main](/Statistika-Deskriptif/Desain_Eksperimen/README.md)

@@ -54,4 +54,4 @@ Meskipun sampling dilakukan dengan benar, hasil survey 500 mahasiswa pasti akan 
 
 ---
 
-
+[Back to Main](/Statistika-Deskriptif/Pengumpulan_Data_dalam_Statistika/README.md)
